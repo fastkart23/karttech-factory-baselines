@@ -1,0 +1,52 @@
+{
+  "manufacturer": "UltraMax",
+  "model": "Evolve",
+  "year": 2024,
+  "status": "active",
+  "meta": {
+    "source": "manufacturer_and_authorized_dealer_listings",
+    "notes": "2024 UltraMax Evolve chassis supported by official UltraMax parts catalog; no published geometry changes from 2023–2025",
+    "last_verified_utc": "2026-02-07"
+  },
+  "factory_baseline": {
+    "chassis": {
+      "material": "Chromoly steel",
+      "frame_rail_options": [
+        "1-1/4 inch",
+        "1-1/8 inch"
+      ],
+      "factory_notes": "Evolve chassis uses center adjustment bolt to influence RF to LR load transfer."
+    },
+    "adjustability": {
+      "caster": "Adjustable",
+      "camber": "Adjustable",
+      "ackermann": "Adjustable",
+      "seat_position": "Adjustable",
+      "rear_axle_height": "Adjustable",
+      "rear_axle_lead": "Adjustable"
+    },
+    "steering": {
+      "supported_spindle_angles_degrees": [7, 10, 15]
+    },
+    "rear_end": {
+      "bearing_cassette_type": "Bolt-in cassette",
+      "supported_bearing_sizes": [
+        "1-1/4 inch",
+        "NTN 207"
+      ]
+    },
+    "package_contents": {
+      "standard_package": [
+        "Omega fiberglass seat",
+        "Medium seat struts",
+        "14 inch steering wheel with tach bracket",
+        "Steering hub kit",
+        "Dzus fasteners on nerf bars",
+        "Steering toe lock kit",
+        "MCP hydraulic brake system",
+        "Factory decal kit"
+      ]
+    },
+    "factory_notes": "Baseline configuration intended for flat dirt oval racing; all tuning ranges adjustable by user."
+  }
+}
