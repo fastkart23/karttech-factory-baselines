@@ -1,0 +1,44 @@
+{
+  "manufacturer": "Millennium",
+  "model": "Fanatic",
+  "year": 2023,
+  "status": "active",
+  "meta": {
+    "source": "manufacturer_and_authorized_dealer_listings",
+    "notes": "2023 Millennium Fanatic chassis actively raced in Southeast US dirt oval competition; factory configuration consistent with surrounding years",
+    "last_verified_utc": "2026-02-07"
+  },
+  "factory_baseline": {
+    "chassis": {
+      "material": "Chromoly steel",
+      "frame_rail_design": "Flat kart oval configuration",
+      "factory_notes": "Fanatic chassis emphasizes balanced flex and consistent side bite for flat dirt oval racing."
+    },
+    "adjustability": {
+      "caster": "Adjustable",
+      "camber": "Adjustable",
+      "ackermann": "Adjustable",
+      "seat_position": "Adjustable",
+      "rear_axle_height": "Adjustable",
+      "rear_axle_lead": "Adjustable"
+    },
+    "steering": {
+      "supported_spindle_angles_degrees": [8, 10, 12]
+    },
+    "rear_end": {
+      "bearing_cassette_type": "Bolt-in cassette",
+      "supported_bearing_sizes": ["1-1/4 inch"]
+    },
+    "package_contents": {
+      "standard_package": [
+        "Millennium fiberglass seat",
+        "Seat struts",
+        "Steering wheel",
+        "Steering hub",
+        "Hydraulic brake system",
+        "Factory decal kit"
+      ]
+    },
+    "factory_notes": "Factory baseline reflects manufacturer-provided configuration only; no track-specific tuning included."
+  }
+}
