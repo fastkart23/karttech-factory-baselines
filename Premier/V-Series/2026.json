@@ -1,0 +1,44 @@
+{
+  "manufacturer": "Premier",
+  "model": "V-Series",
+  "year": 2026,
+  "status": "active",
+  "meta": {
+    "source": "manufacturer_and_authorized_dealer_listings",
+    "notes": "Premier V-Series remains actively raced in Southeast US dirt oval competition; no published 2026 geometry changes located",
+    "last_verified_utc": "2026-02-07"
+  },
+  "factory_baseline": {
+    "chassis": {
+      "material": "Chromoly steel",
+      "frame_rail_design": "Flat kart oval configuration (V-Series)",
+      "factory_notes": "V-Series chassis focuses on balanced flex and predictable side bite for flat dirt ovals."
+    },
+    "adjustability": {
+      "caster": "Adjustable",
+      "camber": "Adjustable",
+      "ackermann": "Adjustable",
+      "seat_position": "Adjustable",
+      "rear_axle_height": "Adjustable",
+      "rear_axle_lead": "Adjustable"
+    },
+    "steering": {
+      "supported_spindle_angles_degrees": [8, 10, 12]
+    },
+    "rear_end": {
+      "bearing_cassette_type": "Bolt-in cassette",
+      "supported_bearing_sizes": ["1-1/4 inch"]
+    },
+    "package_contents": {
+      "standard_package": [
+        "Premier fiberglass seat",
+        "Seat struts",
+        "Steering wheel",
+        "Steering hub",
+        "Hydraulic brake system",
+        "Factory decal kit"
+      ]
+    },
+    "factory_notes": "Factory baseline reflects manufacturer-provided configuration only; no track-specific tuning included."
+  }
+}
