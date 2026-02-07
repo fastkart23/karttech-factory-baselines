@@ -1,0 +1,19 @@
+{
+  "manufacturer": "UltraMax",
+  "model": "Evolve",
+  "year": 2026,
+  "status": "pending_sources",
+  "meta": {
+    "source": "not_published_in_accessible_sources_yet",
+    "notes": "No 2026 Evolve chassis listing/spec sheet located in accessible sources",
+    "last_verified_utc": "2026-02-07"
+  },
+  "factory_baseline": {
+    "chassis": null,
+    "adjustability": null,
+    "steering": null,
+    "rear_end": null,
+    "package_contents": null,
+    "factory_notes": null
+  }
+}
